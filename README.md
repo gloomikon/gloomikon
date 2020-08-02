@@ -1,6 +1,41 @@
-👨‍🎓 Student at [KPI](https://kpi.ua/en)  
-🏫 Studied at UNIT Factory till its closure  
-🇫🇷 Currently studying at [42 school](https://www.42.fr/en/)  
-📱 Working as iOS developer  
-🧡 In fond of Swift  
-Ｎ [Nordstrom](https://apps.apple.com/us/app/nordstrom/id474349412?cm_sp=merch-_-corp_8416_j010438-_-freelayout_corp_p02_details&jid=j010438-8416) - current project
+<h1 align="center">Hi 👋, I'm Mykola Zhurba </h1>
+<h3 align="center">A passionate iOS Developer  </h3>
+
+![image](https://github.com/gloomikon/gloomikon/blob/master/gifs/dino.gif)
+ <!--
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=gloomikon" alt="gloomikon" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" alt="git" width="20" height="20"/> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ios.svg" alt="ios" width="20" height="20"/> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="cpp" width="20" height="20"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" alt="c" width="20" height="20"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="github" width="20" height="20"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" alt="gitlab" width="20" height="20"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" alt="jira" width="20" height="20"/>
+</p>
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/gloomikon?tab=repositories)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **gloomikon@gmail.com**
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gloomikon&show_icons=true" alt="gloomikon" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gloomikon/" target="blank">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" alt="linkedin" width="20" height="20"/>
+  </a>
+  <a href="https://www.instagram.com/nikolay.zhurba/" target="blank">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instangram" width="20" height="20"/>
+  </a>
+ <a href="t.me/gloomikon" target="blank">
+   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" alt="telegram" width="20" height="20"/>
+  </a>
+</p>
