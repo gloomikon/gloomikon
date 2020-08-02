@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/nikolay.zhurba/" target="blank">
     <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instangram" width="20" height="20"/>
   </a>
- <a href="t.me/gloomikon" target="blank">
+ <a href="https://t.me/gloomikon" target="blank">
    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" alt="telegram" width="20" height="20"/>
   </a>
 </p>
