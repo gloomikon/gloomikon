@@ -11,7 +11,10 @@
 <p align="center">
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" alt="git" width="20" height="20"/> 
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ios.svg" alt="ios" width="20" height="20"/> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="cpp" width="20" height="20"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apple.svg" alt="apple" width="20" height="20"/> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/xcode.svg" alt="xcode" width="20" height="20"/> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/swift.svg" alt="swift" width="20" height="20"/> 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/42.svg" alt="42" width="20" height="20"/>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" alt="c" width="20" height="20"/>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="github" width="20" height="20"/>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" alt="gitlab" width="20" height="20"/>
