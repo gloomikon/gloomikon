@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mykola Zhurba </h1>
 <h3 align="center">A passionate iOS Developer  </h3>
 
-![image](https://github.com/gloomikon/gloomikon/blob/master/gifs/dino.gif)
+![image](https://github.com/gloomikon/gloomikon/blob/master/gifs/revy.gif)
  <!--
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gloomikon" alt="gloomikon" />
