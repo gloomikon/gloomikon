@@ -18,7 +18,7 @@
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" alt="jira" width="20" height="20"/>
 </p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/gloomikon?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/gloomikon?tab=repositories) and [here](https://github.com/orgs/KOMA-Inc/repositories)
 
 - 💬 Ask me about **anything**
 
