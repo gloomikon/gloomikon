@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gloomikon/" target="blank">
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" alt="linkedin" width="20" height="20"/>
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/onlyfans.svg" alt="linkedin" width="20" height="20"/>
   </a>
   <a href="https://www.instagram.com/nikolay.zhurba/" target="blank">
     <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instangram" width="20" height="20"/>
